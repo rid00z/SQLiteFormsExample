@@ -2,6 +2,10 @@
 using SQLite.Net;
 using System.IO;
 using SQLite.Net.Platform.XamarinAndroid;
+using Xamarin.Forms;
+using SQLiteExample.Android.Dependancies;
+
+[assembly: Dependency(typeof(SQLiteFactory))]
 
 namespace SQLiteExample.Android.Dependancies
 {
