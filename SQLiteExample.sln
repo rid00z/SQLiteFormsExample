@@ -69,7 +69,7 @@ Global
 		{A58829A6-48F6-42D0-9CAA-D718BEEFD99E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = iOS\SQLiteExample.iOS.csproj
+		StartupItem = Android\SQLiteExample.Android.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
 		$1.inheritsSet = null
